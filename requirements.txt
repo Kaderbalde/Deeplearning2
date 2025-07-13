@@ -1,0 +1,7 @@
+transformers
+librosa
+torch
+gradio
+fastapi
+uvicorn
+gtts
